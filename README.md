@@ -57,4 +57,4 @@ Results of different methods applied
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.<br/>
+Distributed under the MIT License. See `LICENSE` for more information..<br/>
